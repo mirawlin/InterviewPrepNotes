@@ -10,7 +10,7 @@
 BigO notation is the language we use to compare how long an algorithm takes to run
 - we can compare different algorithms using BigO and say which one is better when it comes to scale regardless of computer differences 
 
-![[Pasted image 20211226162233.png]]
+![bigO][../Images/Pasted image 20211226162233.png]
 
 Big O --> when we get bigger and bigger with input, how much does the algorithm or function slow down --> algorithmic efficiency
 
